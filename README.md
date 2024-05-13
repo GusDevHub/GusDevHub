@@ -1,4 +1,4 @@
-### Hi there, I'm Joao Gustavo :octocat:<br>
+### Hi there, I'm Gus :octocat:<br>
 I'm a multiskilled Web Developer with strong Graphic Design experience currently based in Bristol :uk:. 
 <br />
 I deployed my first web pages in 2004 on GeoCities and since then I didn't stop.
@@ -15,7 +15,7 @@ Striving for elegance, scalability, and maintainability, in architecture, code, 
 • Photoshop, Illustrator, Indesign, Acrobat, Lightroom, Adobe XD, Animate, Sketch, Affinity, MockFlow, Figma, GIMP<br /><br />
 • Ability to learn new technologies/languages quickly...
 <!--
-**joaogustavo/joaogustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joaogustavo/gus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
