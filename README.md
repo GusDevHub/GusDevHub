@@ -4,7 +4,7 @@
 </h1>
 I'm Gus, a multiskilled Web Developer & Graphic Designer, based in Bristol, United Kingdom :uk: <br/>
 I'm familiar with several programming languages such as HTML, CSS, JavaScript, PHP and SQL. <br/>
-I'm currently focused on challenging my coding skills by developing projects and exploring different front-end and styling frameworks such as React, Vue, Tailwind, and Bootstrap.
+I'm currently focused on challenging my coding skills by developing projects and exploring different front-end and styling frameworks.
 
 ## 🛠️ Some languages and tools that I use
 
