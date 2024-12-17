@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 I'm Gus, a multiskilled Web Developer & Graphic Designer, based in Bristol, United Kingdom :uk: <br/>
-I'm familiar with several programming languages such as HTML, CSS, JavaScript, PHP and SQL. <br/>
+I'm familiar with several languages such as HTML, CSS, JavaScript, PHP and SQL. <br/>
 I'm currently focused on challenging my coding skills by developing projects and exploring different front-end and styling frameworks.
 
 ## 🛠️ Some languages and tools that I use
